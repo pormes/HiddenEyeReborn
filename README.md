@@ -14,4 +14,41 @@
     <a href="https://www.python.org/dev/peps/pep-0008/"><img title="PEP8" src="https://img.shields.io/badge/code%20style-pep8-blue.svg"></a>
     <a href='https://hiddeneye-reborn.readthedocs.io/en/latest/?badge=latest'><img src='https://readthedocs.org/projects/hiddeneye-reborn/badge/?version=latest' alt='Documentation Status' /></a>
 </p>
-HiddenEye with completely new codebase and better feature set. A next level phishing tool and favourite choice for social engineering practice. 
+
+HiddenEye: Reborn is my second try on doing multi-featured tool for human mistakes exploitation. 
+Currently, HE: RE has mainly phishing features. But we are planning on adding more, you can follow development progress by looking at (*REMIND ME TO DO ROADMAP*) or Projects Tab on GitHub
+
+## Disclaimer
+The use of the HiddenEye: Reborn and/or its resources is **complete responsibility** of the **end-user**.
+Developers assume **no liabiity** and are **not responsible** for any misuse or damage caused by HiddenEye: Reborn. 
+Some of your actions may be **illegal** and you **can not** use this software to test someone without **written permission** from person or company.
+
+## Installation
+HE: RE is available on PyPI and can be installed using pip:
+*TO-DO upload to pypi*
+or conda:
+*here goes command*
+That's all it takes! HE: RE is now available as a terminal command or as a package to your projects.
+
+## Basic Usage
+*to be written*
+
+## Documentation
+*to be written*
+https://hiddeneye-reborn.readthedocs.io
+
+## FAQ
+**Q:** Why original HiddenEye is no longer maintained?
+
+**A:** Due to low quality and bad practices used in code.
+##
+
+**Q:** Is there any example usages for this tool?
+
+**A:** This is just a tool, and it's up to you how to use it. That's why we take no liability for your actions. 
+There are multiple examples of legal usage of this tool, such as people willing to improve their workflow by testing/educating their employees or collegues and educating them about human vulnerabilities social engineers may use.
+##
+
+## Contributing
+*to be written*
+
